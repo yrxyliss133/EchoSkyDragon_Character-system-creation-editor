@@ -1,0 +1,8 @@
+# 参考图衍生物：不公开
+design/reference/
+
+# 系统垃圾
+.DS_Store
+Thumbs.db
+*.swp
+*~

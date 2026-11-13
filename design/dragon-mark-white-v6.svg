@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <g fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round">
+    <!-- head outline -->
+    <path d="M90 300C98 276 118 258 146 248C176 236 204 234 228 236C242 214 266 202 294 208C322 214 344 232 358 258C374 280 382 304 382 328C382 346 376 360 366 372" stroke-width="8"/>
+    <path d="M366 372C354 388 334 398 310 402C284 406 258 400 234 392C208 384 184 372 166 358C150 346 138 332 132 318C130 310 134 306 142 310C162 322 186 332 212 340C240 348 268 354 294 358C318 362 342 364 366 372Z" stroke-width="8"/>
+    <path d="M90 300C104 304 118 312 132 318" stroke-width="8"/>
+    <path d="M108 312C140 308 176 316 210 326C246 338 282 350 320 364" stroke-width="5"/>
+    <!-- brow / cheek / jaw lines -->
+    <path d="M218 252C232 238 256 232 278 240" stroke-width="6"/>
+    <path d="M232 248C224 236 216 226 206 218" stroke-width="5"/>
+    <path d="M288 282C302 292 312 304 318 318" stroke-width="4"/>
+    <path d="M298 326C312 336 322 348 326 362" stroke-width="4"/>
+    <path d="M208 372C196 386 184 396 170 402" stroke-width="5"/>
+    <!-- antlers -->
+    <path d="M276 214C308 176 340 142 374 116" stroke-width="12"/>
+    <path d="M310 180C318 158 328 138 340 122" stroke-width="9"/>
+    <path d="M344 152C354 132 366 114 380 102" stroke-width="9"/>
+    <path d="M370 130C384 116 398 106 414 100" stroke-width="8"/>
+    <path d="M302 224C336 192 370 168 404 152" stroke-width="10"/>
+    <path d="M344 194C352 176 362 162 374 150" stroke-width="8"/>
+    <!-- mane strokes -->
+    <path d="M370 286C404 278 432 296 442 326" stroke-width="12"/>
+    <path d="M384 326C418 324 444 344 452 374" stroke-width="11"/>
+    <path d="M388 370C414 376 434 396 440 420" stroke-width="9"/>
+    <path d="M396 406C414 418 424 436 426 454" stroke-width="7"/>
+    <path d="M414 300C432 306 444 318 450 334" stroke-width="5"/>
+    <path d="M426 340C444 348 454 362 458 378" stroke-width="4.5"/>
+    <!-- whiskers -->
+    <path d="M100 266C72 256 50 264 40 284C56 274 72 276 88 286C68 292 58 304 60 320C74 302 92 294 108 290" stroke-width="5.5"/>
+    <path d="M116 302C92 310 74 324 64 346C82 332 98 326 114 324" stroke-width="4"/>
+    <path d="M300 318C318 314 334 320 344 332" stroke-width="3.5"/>
+    <path d="M190 350C180 372 166 390 148 404" stroke-width="5"/>
+  </g>
+  <!-- white fills: eye, teeth, antler tips, mane tips -->
+  <g fill="#fff">
+    <path d="M224 254C238 238 262 232 280 244C272 258 250 266 232 262C228 260 226 258 224 254Z"/>
+    <path d="M150 294C158 304 162 316 159 328C151 317 146 304 143 296Z"/>
+    <path d="M214 308C220 318 222 330 219 340C212 328 208 316 207 308Z"/>
+    <path d="M172 334C169 322 172 312 179 302C186 314 185 328 181 338Z"/>
+    <path d="M366 132C380 118 394 108 410 102C402 118 392 132 380 144Z"/>
+    <path d="M430 320C442 326 450 338 452 350C442 342 432 338 422 338Z"/>
+    <path d="M444 368C456 374 462 386 462 398C452 390 442 386 432 386Z"/>
+  </g>
+  <!-- eye cut: transparent slit -->
+  
+</svg>
